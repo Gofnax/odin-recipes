@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(35, 206, 206);
+    background-color: rgb(1, 195, 233);
     font-family: Verdana, Arial, sans-serif;
 }
 
@@ -8,17 +8,13 @@ h1, ul {
 }
 
 h1 {
-    color: goldenrod;
+    color: rgb(254, 228, 64);
 }
 
-a:link, a:hover {
-    color: rgb(117, 111, 111);
+a:link, a:hover, a:visited {
+    color: rgb(150, 52, 132);
 }
 
 a:active {
     color: rgb(200, 50, 50);
-}
-
-a:visited {
-    color: hsl(270, 90%, 51%);
 }

@@ -1,10 +1,10 @@
 body {
-    background-color: rgb(35, 206, 206);
+    background-color: rgb(1, 195, 233);
     font-family: Verdana, Arial, sans-serif;
-    color: rgb(211, 128, 4);
+    color: rgb(255, 66, 66);
 }
 
 h1 {
     text-align: center;
-    color: goldenrod;
+    color: rgb(254, 228, 64);
 }
