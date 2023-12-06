@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(35, 206, 206);
+    font-family: Verdana, Arial, sans-serif;
+    color: rgb(211, 128, 4);
+}
+
+h1 {
+    text-align: center;
+    color: goldenrod;
+}
